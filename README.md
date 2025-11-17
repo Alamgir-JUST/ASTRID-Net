@@ -12,9 +12,15 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 
 ## Architetcure of the Proposed Approach
 
-<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%201.png"/> </p>
-<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%202.png"/> </p>
-<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%203.png"/> </p>
+<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%201.png"/> 
+*Figure 1: Methodology of ASTRID-Net model for Intrusion Detection.*
+</p>
+<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%202.png"/> 
+*Figure 2: Methodology of Multi stages CNN model  for Intrusion Detection.*
+</p>
+<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%203.png"/> 
+*Figure 3: A Deep Learning Framework for Intrusion Detection in IoT and IIoT Networks.*
+</p>
 
 ## Results
 - Accuracy: 99.97% for binary and multiclass classification.
@@ -24,7 +30,7 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 
 <p align="center">
   <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%204.png"/>
-*Figure 4: Performance metrics for all the attacks using our proposed method.*
+  *Figure 4: Performance metrics for all the attacks using our proposed method.*
 </p>
 
 
