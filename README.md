@@ -23,10 +23,10 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 
 <p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%204.png"/> </p>
 
-## Contact
-Md. Alamgir Hossain,
-MSc in ICT, IICT, BUET; BSc in CSE, JUST. 
-Director, Skill Morph Research Lab., Skill Morph, Dhaka, Bangladesh.
-Mail: alamgir.cse14.just@gmail.com
-Google Scholar: https://scholar.google.com/citations?user=P-_d2XsAAAAJ&hl=en&oi=sra
+## Citation
+
+If you use this code or reference this project in your work, please cite the following paper:
+
+**Zannat, Ashrafun Zannat**, **Ahmmed, Md. Shakil**, **Hossain, Md. Alamgir**, **Manarat, Alifa Shanzidah**, **Islam, Md. Saiful** (2025). *ASTRID-Net: SE-Enhanced Triple Attention Deep Learning Framework for IoT and IIoT Security*. Available at SSRN: [https://ssrn.com/abstract=5643979](https://ssrn.com/abstract=5643979) or [http://dx.doi.org/10.2139/ssrn.5643979](http://dx.doi.org/10.2139/ssrn.5643979).
+
 
