@@ -24,8 +24,8 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 
 <p align="center">
   <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%204.png"/>
+*Figure 4: Performance metrics for all the attacks using our proposed method.*
 </p>
-*Figure 1: Performance metrics for all the attacks using our proposed method.*
 
 
 ## Citation
