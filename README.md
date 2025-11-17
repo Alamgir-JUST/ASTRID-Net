@@ -27,6 +27,6 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 
 If you use this code or reference this project in your work, please cite the following paper:
 
-**Zannat, Ashrafun Zannat**, **Ahmmed, Md. Shakil**, **Hossain, Md. Alamgir**, **Manarat, Alifa Shanzidah**, **Islam, Md. Saiful** (2025). *ASTRID-Net: SE-Enhanced Triple Attention Deep Learning Framework for IoT and IIoT Security*. Available at SSRN: [https://ssrn.com/abstract=5643979](https://ssrn.com/abstract=5643979) or [http://dx.doi.org/10.2139/ssrn.5643979](http://dx.doi.org/10.2139/ssrn.5643979).
+**Zannat, Ashrafun Zannat**; **Ahmmed, Md. Shakil**; **Hossain, Md. Alamgir**; **Manarat, Alifa Shanzidah**; **Islam, Md. Saiful** (2025). *ASTRID-Net: SE-Enhanced Triple Attention Deep Learning Framework for IoT and IIoT Security*. Available at SSRN: [https://ssrn.com/abstract=5643979](https://ssrn.com/abstract=5643979) or [http://dx.doi.org/10.2139/ssrn.5643979](http://dx.doi.org/10.2139/ssrn.5643979).
 
 
