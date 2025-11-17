@@ -21,7 +21,12 @@ ASTRID-Net is a deep learning framework designed for high-accuracy intrusion det
 - Macro-Averaged Precision, Recall, F1-Score: Surpassing 99.97% on the Edge-IIoTset dataset.
 - Outperforms conventional deep learning baselines for real-time cyber threat detection in IoT and IIoT environments.
 
-<p align="center"> <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%204.png"/> </p>
+
+<p align="center">
+  <img src="https://github.com/Alamgir-JUST/ASTRID-Net/blob/07fd6c649b305bb856606aff7b05b22268991c17/Figure%204.png"/>
+</p>
+*Figure 1: Performance metrics for all the attacks using our proposed method.*
+
 
 ## Citation
 
